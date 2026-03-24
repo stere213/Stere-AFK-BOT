@@ -8,7 +8,7 @@
   "server": {
     "ip": "Backrooms_entit.aternos.me",
     "port": 40479,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
