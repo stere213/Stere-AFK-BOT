@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Backrooms_entit.aternos",
+    "port": 40479,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
